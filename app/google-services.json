@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478290929718",
+    "project_id": "memeviewer-edf70",
+    "storage_bucket": "memeviewer-edf70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478290929718:android:7c4631f8f2ea86eec59097",
+        "android_client_info": {
+          "package_name": "com.example.memeviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478290929718-rtoske1g48amhftc1h7ug89bpabb1gf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memeviewer",
+            "certificate_hash": "58f399339352867f72a5dc160182eadbf76b33ed"
+          }
+        },
+        {
+          "client_id": "478290929718-ke4q0netrdfr98l3dhtdad9ae4ft7vir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4okN5soDZ61R_vNID6UsXwWh1Rh-yDAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478290929718-ke4q0netrdfr98l3dhtdad9ae4ft7vir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
